@@ -8,7 +8,7 @@ import random
 def name_to_number(name):
     
     # convert name to number
-	if name == 'rock' :
+    if name == 'rock' :
         return 0
     elif name == 'Spock':
         return 1
